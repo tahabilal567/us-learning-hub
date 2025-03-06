@@ -1,0 +1,270 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(8, 36, 31, 0.733);
+}
+
+.qq>.usa {
+    border: 1px solid black;
+    block-size: 35px;
+    border-radius: 500px;
+    margin-left: 15px;  
+}
+.ee:hover{background-color: rgb(0, 0, 0);}
+
+.us {
+    border: 1px solid black;
+    block-size: 120px;
+    border-radius: 500px;
+    margin-top: 100px;
+    margin-left: 160px;
+}
+
+.ww {
+    list-style-type: none;
+    display: inline-block;
+  
+  
+
+}
+
+.ww>.ee {
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    font-size: 30px;
+   
+}
+
+.qq {
+    background-color: rgb(29, 28, 28);
+    height: 50px;
+    width: auto;
+margin-top: 10px;
+}
+
+.ok {
+    position: absolute;
+    left: 0px;
+    top: 70px;
+    z-index: -1;
+    height: 895px;
+}
+
+
+h1 {
+    color: rgb(255, 243, 243);
+    font-size: 110px;
+    margin-left: 290px;
+    font-family: monospace;
+    margin-top: -120px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 45px;
+    margin-left: 160px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: overline white;
+}
+
+.ui {
+    margin: 60px;
+    border: 1px solid black;
+    block-size: 400px;
+    margin-left: 250px;
+    margin-top: 0;
+}
+
+.as {
+    margin-left: 750px;
+    margin-top: -400px;
+}
+
+
+
+
+.dd {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+
+}
+
+.pp {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    margin-right: 250px;
+    margin-top: 130px;
+}
+
+.ff {
+    border: 1px solid black;
+    block-size: 300px;
+    margin-left: 600px;
+    margin-top: 70px;
+}
+
+.ta {
+    margin-left: 330px;
+    margin-top: -290px;
+}
+
+
+
+.bi {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+}
+
+.fd {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 220px;
+}
+
+.al {
+    border: 1px solid black;
+    block-size: 300px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
+.zx {
+    margin-left: 800px;
+    margin-top: -270px;
+}
+
+.xx {
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+}
+
+.co {
+    text-align: center;
+    color: black;
+    margin-right: 250px;margin-top: 120px;
+}
+
+.se {
+    margin-left: 700px;
+    border: 1px solid black;
+    block-size: 360px;
+    margin-top: 100px;
+
+}
+
+.eo {
+    margin-left: 390px;
+    margin-top: -360px;
+}
+
+.er {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+
+}
+
+.gd {
+    text-align: center;
+    margin-right: 250px;
+    color: black;
+    font-size: 90px;margin-top: 120px;
+}
+
+.dg {
+    border: 1px solid black;
+    block-size: 250px;
+    margin-left: 120px;
+    margin-top: 90px;
+}
+
+.vv {
+    margin-left: 700px;
+    margin-top: -260px;
+}
+
+.df {
+    text-decoration: none;
+    font-size: 35px;
+    color: black;
+}
+
+.cr {
+    text-align: center;
+    margin-right: 250px;
+    color: black;
+    font-size: 80px;
+    margin-top: 120px;
+}
+
+.ct {
+    margin-left: 750px;
+    margin-top: 80px;
+}
+
+.ty {
+    margin-left: 350px;
+    margin-top: -320px;
+}
+
+.yu {
+    color: black;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+div {
+    margin-top: 15px;
+    height: 90px;
+    width: auto;
+    border: 1px solid green;
+    background-color: green;
+}
+
+div>p {
+    margin-left: 60px;
+    margin-top: -22px;
+
+    font-size: 25px;
+}
+
+/**/
+
+#mm {
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#nn {
+    margin-left: 1000px;
+    font-size: 30px;
+
+}
+
+#bb {
+    font-size: 30px;
+}
+
+#vv {
+    font-size: 30px;
+}
+
+#cc {
+    font-size: 30px;
+}
+div>.pra{font-size: 30px;}

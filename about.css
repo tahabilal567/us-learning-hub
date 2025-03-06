@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+}
+
+.sir {
+
+    height: 500px;
+    width: auto;
+    background-color: rgba(8, 36, 31, 0.733);
+}
+
+img {
+    border: 1px solid black;
+    block-size: 350px;
+    border-radius: 500px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+h1 {
+    margin-left: 480px;
+    margin-top: -300px;
+    font-size: 70px;
+}
+
+p { color: white;
+    margin-left: 480px;
+    font-size: 25px;
+}
+#sir {
+
+    height: 500px;
+    width: auto;
+    background-color: rgba(8, 36, 31, 0.733);
+}
+
+.sajid {
+    border: 1px solid black;
+    block-size: 350px;
+    border-radius: 500px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+
+.head{
+    margin-left: 480px;
+    margin-top: -300px;
+    font-size: 70px;
+}
+
+.pra{
+    margin-left: 480px;
+    font-size: 25px;
+}
+
